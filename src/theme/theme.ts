@@ -18,6 +18,9 @@ let theme = createTheme({
       light: '#EDF7FA',
       contrastText: '#47008F',
     },
+    text: {
+      primary: '#21243D'
+    },
   },
   colorSchemes: { light: true, dark: true },
   cssVariables: {
